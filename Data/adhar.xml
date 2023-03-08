@@ -1,0 +1,51 @@
+<annotation>
+	<folder>デスクトップ</folder>
+	<filename>license3_resize.jpg</filename>
+	<path>C:/Users/t.takahashi/OneDrive - テレネット株式会社/デスクトップ/license3_resize.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1180</width>
+		<height>744</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>name</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>373</xmin>
+			<ymin>208</ymin>
+			<xmax>728</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+    
+	<object>
+		<name>DOB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>633</xmin>
+			<ymin>247</ymin>
+			<xmax>812</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gender</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>474</xmin>
+			<ymin>286</ymin>
+			<xmax>601</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>
